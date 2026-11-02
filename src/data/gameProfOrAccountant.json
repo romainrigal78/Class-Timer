@@ -1,0 +1,1795 @@
+{
+  "metadata": {
+    "title": "Prof de De Vinci ou Comptable LinkedIn ?",
+    "description": "Devinez qui est enseignant-chercheur au Pôle Léonard de Vinci et qui est auditeur/comptable sur LinkedIn !",
+    "totalProfessors": 99,
+    "totalAccountants": 99,
+    "updatedAt": "2026-10-31T15:11:26.734Z"
+  },
+  "professors": [
+    {
+      "id": "prof-1",
+      "name": "Sabrine AYARI",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/sabrine-ayari/2664_195x130_20261030124808.jpg",
+      "funFact": "Enseigne la finance d'entreprise et les marchés de capitaux à De Vinci."
+    },
+    {
+      "id": "prof-2",
+      "name": "Ahmed AZOUGH",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/ahmed-azough/725_195x130_20261030124809.jpg",
+      "funFact": "Spécialiste de l'intelligence artificielle et du machine learning appliquée au business."
+    },
+    {
+      "id": "prof-3",
+      "name": "Catherine BASKIOTIS",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/catherine-baskiotis/2665_195x130_20261030124808.jpg",
+      "funFact": "Chercheur affilié au De Vinci Research Center (DVRC) à Paris La Défense."
+    },
+    {
+      "id": "prof-4",
+      "name": "Pascale BUENO MERINO",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/pascale-bueno-merino/1177_195x130_20261030124808.jpg",
+      "funFact": "Publie régulièrement dans des revues académiques internationales de rang A."
+    },
+    {
+      "id": "prof-5",
+      "name": "Jinan CHARAFEDDINE",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/jinan-charafeddine/1850_195x130_20261030124808.jpg",
+      "funFact": "Donne des cours magistraux et dirige des projets d'innovation à l'EMLV & ESILV."
+    },
+    {
+      "id": "prof-6",
+      "name": "Charles DE GRAZIA",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/charles-de-grazia/782_195x130_20261030124810.jpg",
+      "funFact": "Encadre des thèses de doctorat et des mémoires de fin d'études."
+    },
+    {
+      "id": "prof-7",
+      "name": "Béatrice DURAND-MEGRET",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/beatrice-durand-megret/396_195x130_20261030124811.jpg",
+      "funFact": "Responsable de module sur le campus de l'Arche à La Défense."
+    },
+    {
+      "id": "prof-8",
+      "name": "Hrishikesh DUTTA",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/hrishikesh-dutta/4133_195x130_20261030124808.jpg",
+      "funFact": "Anime des workshops sur les transitions écologiques et technologiques."
+    },
+    {
+      "id": "prof-9",
+      "name": "Mounira EL BOUTI",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/mounira-el-bouti/4123_195x130_20261030124808.jpg",
+      "funFact": "Passionné par la pédagogie inversée et les hackathons étudiants."
+    },
+    {
+      "id": "prof-10",
+      "name": "Frédéric FAUBERTEAU",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/frederic-fauberteau/246_195x130_20261030124810.jpg",
+      "funFact": "Intervient dans les parcours International Track et French Track."
+    },
+    {
+      "id": "prof-11",
+      "name": "Ilhem GHARBI",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/ilhem-gharbi/3199_195x130_20261030124808.jpg",
+      "funFact": "Enseigne la finance d'entreprise et les marchés de capitaux à De Vinci."
+    },
+    {
+      "id": "prof-12",
+      "name": "Mohamed GUERICH",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/mohamed-guerich/73_195x130_20261030124811.jpg",
+      "funFact": "Spécialiste de l'intelligence artificielle et du machine learning appliquée au business."
+    },
+    {
+      "id": "prof-13",
+      "name": "Emmanuel JOSSERAND",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/emmanuel-josserand/1273_195x130_20261030124809.jpg",
+      "funFact": "Chercheur affilié au De Vinci Research Center (DVRC) à Paris La Défense."
+    },
+    {
+      "id": "prof-14",
+      "name": "Fatima Zahra KAGHAT",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/fatima-zahra-kaghat/4137_195x130_20261030124807.jpg",
+      "funFact": "Publie régulièrement dans des revues académiques internationales de rang A."
+    },
+    {
+      "id": "prof-15",
+      "name": "Michèle KANHONOU",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/michele-kanhonou/802_195x130_20261030124810.jpg",
+      "funFact": "Donne des cours magistraux et dirige des projets d'innovation à l'EMLV & ESILV."
+    },
+    {
+      "id": "prof-16",
+      "name": "Salah-Eddine LAIDOUDI",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/salah-eddine-laidoudi/4138_195x130_20261030124808.jpg",
+      "funFact": "Encadre des thèses de doctorat et des mémoires de fin d'études."
+    },
+    {
+      "id": "prof-17",
+      "name": "Marina LATUKHA",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/marina-latukha/1274_195x130_20261030124809.jpg",
+      "funFact": "Responsable de module sur le campus de l'Arche à La Défense."
+    },
+    {
+      "id": "prof-18",
+      "name": "Nicolas LEBON",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/nicolas-lebon/1846_195x130_20261030124809.jpg",
+      "funFact": "Anime des workshops sur les transitions écologiques et technologiques."
+    },
+    {
+      "id": "prof-19",
+      "name": "Mieszko MAZUR",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/mieszko-mazur/3046_195x130_20261030124808.jpg",
+      "funFact": "Passionné par la pédagogie inversée et les hackathons étudiants."
+    },
+    {
+      "id": "prof-20",
+      "name": "Nga NGUYEN",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/nga-nguyen/1013_195x130_20261030124810.jpg",
+      "funFact": "Intervient dans les parcours International Track et French Track."
+    },
+    {
+      "id": "prof-21",
+      "name": "Thuy NGUYEN",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/thuy-nguyen/757_195x130_20261030124808.jpg",
+      "funFact": "Enseigne la finance d'entreprise et les marchés de capitaux à De Vinci."
+    },
+    {
+      "id": "prof-22",
+      "name": "Andry Zaïd RABENANTOANDRO",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/andry-zaid-rabenantoandro/3442_195x130_20261030124808.jpg",
+      "funFact": "Spécialiste de l'intelligence artificielle et du machine learning appliquée au business."
+    },
+    {
+      "id": "prof-23",
+      "name": "Basma TAIEB",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/basma-taieb/190_195x130_20261030124809.jpg",
+      "funFact": "Chercheur affilié au De Vinci Research Center (DVRC) à Paris La Défense."
+    },
+    {
+      "id": "prof-24",
+      "name": "Mariana TAMASHIRO",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/mariana-aki-tamashiro/3203_195x130_20261030124807.jpg",
+      "funFact": "Publie régulièrement dans des revues académiques internationales de rang A."
+    },
+    {
+      "id": "prof-25",
+      "name": "Elissar TOUFAILY",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/elissar-toufaily/1858_195x130_20261030124809.jpg",
+      "funFact": "Donne des cours magistraux et dirige des projets d'innovation à l'EMLV & ESILV."
+    },
+    {
+      "id": "prof-26",
+      "name": "Duygu T?RKER",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/duygu-turker/1849_195x130_20261030124809.jpg",
+      "funFact": "Encadre des thèses de doctorat et des mémoires de fin d'études."
+    },
+    {
+      "id": "prof-27",
+      "name": "Noor UL-AIN",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/noor-ul-ain/1051_195x130_20261030124809.jpg",
+      "funFact": "Responsable de module sur le campus de l'Arche à La Défense."
+    },
+    {
+      "id": "prof-28",
+      "name": "Swaminath VENKATESWARAN",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/swaminath-venkateswaran/1169_195x130_20261030124809.jpg",
+      "funFact": "Anime des workshops sur les transitions écologiques et technologiques."
+    },
+    {
+      "id": "prof-29",
+      "name": "Quoc Huy VU",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/quoc-huy-vu/1853_195x130_20261030124809.jpg",
+      "funFact": "Passionné par la pédagogie inversée et les hackathons étudiants."
+    },
+    {
+      "id": "prof-30",
+      "name": "Zhiqiang WANG",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/zhiqiang-wang/1320_195x130_20261030124809.jpg",
+      "funFact": "Intervient dans les parcours International Track et French Track."
+    },
+    {
+      "id": "prof-31",
+      "name": "Zhe YUAN",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/zhe-yuan/504_195x130_20261030124809.jpg",
+      "funFact": "Enseigne la finance d'entreprise et les marchés de capitaux à De Vinci."
+    },
+    {
+      "id": "prof-32",
+      "name": "Sofy YUDITSKAYA",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Nouveaux Matériaux, Systèmes Intelligents et Entreprises Innovantes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/sofy-yuditskaya/3400_195x130_20261030124808.jpg",
+      "funFact": "Spécialiste de l'intelligence artificielle et du machine learning appliquée au business."
+    },
+    {
+      "id": "prof-33",
+      "name": "Katia AIT AMEUR",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/katia-ait-ameur/4103_195x130_20261030124808.jpg",
+      "funFact": "Chercheur affilié au De Vinci Research Center (DVRC) à Paris La Défense."
+    },
+    {
+      "id": "prof-34",
+      "name": "Farah AIT SALAHT",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/farah-ait-salaht/1857_195x130_20261030124809.jpg",
+      "funFact": "Publie régulièrement dans des revues académiques internationales de rang A."
+    },
+    {
+      "id": "prof-35",
+      "name": "Sidi Mohammed ALAOUI",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/sidi-mohammed-alaoui/4104_195x130_20261030124808.jpg",
+      "funFact": "Donne des cours magistraux et dirige des projets d'innovation à l'EMLV & ESILV."
+    },
+    {
+      "id": "prof-36",
+      "name": "Jean Gabriel ATTALI",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/jean-gabriel-attali/1841_195x130_20261030124809.jpg",
+      "funFact": "Encadre des thèses de doctorat et des mémoires de fin d'études."
+    },
+    {
+      "id": "prof-37",
+      "name": "Tarik BAZGOUR",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/tarik-bazgour/139_195x130_20261030124811.jpg",
+      "funFact": "Responsable de module sur le campus de l'Arche à La Défense."
+    },
+    {
+      "id": "prof-38",
+      "name": "Mustapha BENAOUICHA",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/mustapha-benaouicha/3926_195x130_20261030124808.jpg",
+      "funFact": "Anime des workshops sur les transitions écologiques et technologiques."
+    },
+    {
+      "id": "prof-39",
+      "name": "Auday BERRO",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/auday-berro/3095_195x130_20261030124808.jpg",
+      "funFact": "Passionné par la pédagogie inversée et les hackathons étudiants."
+    },
+    {
+      "id": "prof-40",
+      "name": "Alessandro BIANCALANI",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/alessandro-biancalani/1014_195x130_20261030122855.jpg",
+      "funFact": "Intervient dans les parcours International Track et French Track."
+    },
+    {
+      "id": "prof-41",
+      "name": "Vivien BRUNEL",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/vivien-brunel/29_195x130_20261030122158.jpg",
+      "funFact": "Enseigne la finance d'entreprise et les marchés de capitaux à De Vinci."
+    },
+    {
+      "id": "prof-42",
+      "name": "Gaël CHAREYRON",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/gael-chareyron/109_195x130_20261030124811.jpg",
+      "funFact": "Spécialiste de l'intelligence artificielle et du machine learning appliquée au business."
+    },
+    {
+      "id": "prof-43",
+      "name": "Ranjan CHAUDHURI",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/ranjan-chaudhuri/1844_195x130_20261030124809.jpg",
+      "funFact": "Chercheur affilié au De Vinci Research Center (DVRC) à Paris La Défense."
+    },
+    {
+      "id": "prof-44",
+      "name": "Jad DABAGHI",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/jad-dabaghi/1316_195x130_20261030124808.jpg",
+      "funFact": "Publie régulièrement dans des revues académiques internationales de rang A."
+    },
+    {
+      "id": "prof-45",
+      "name": "Sonia DJEBALI",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/sonia-djebali/247_195x130_20261030124811.jpg",
+      "funFact": "Donne des cours magistraux et dirige des projets d'innovation à l'EMLV & ESILV."
+    },
+    {
+      "id": "prof-46",
+      "name": "Imane EL OUADGHIRI",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/imane-el-ouadghiri/367_195x130_20261030124811.jpg",
+      "funFact": "Encadre des thèses de doctorat et des mémoires de fin d'études."
+    },
+    {
+      "id": "prof-47",
+      "name": "Julie GAMAIN",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/julie-gamain/2666_195x130_20261030124809.jpg",
+      "funFact": "Responsable de module sur le campus de l'Arche à La Défense."
+    },
+    {
+      "id": "prof-48",
+      "name": "Aakanksha GAUR",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/aakanksha-gaur/4124_195x130_20261030124808.jpg",
+      "funFact": "Anime des workshops sur les transitions écologiques et technologiques."
+    },
+    {
+      "id": "prof-49",
+      "name": "Hassen GHALILA",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/hassen-ghalila/2667_195x130_20261030124808.jpg",
+      "funFact": "Passionné par la pédagogie inversée et les hackathons étudiants."
+    },
+    {
+      "id": "prof-50",
+      "name": "Martino GRASSELLI",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/martino-grasselli/36_195x130_20261030123654.jpg",
+      "funFact": "Intervient dans les parcours International Track et French Track."
+    },
+    {
+      "id": "prof-51",
+      "name": "Kamel HAMDACHE",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/kamel-hamdache/2_195x130_20261030124811.jpg",
+      "funFact": "Enseigne la finance d'entreprise et les marchés de capitaux à De Vinci."
+    },
+    {
+      "id": "prof-52",
+      "name": "Ruiwen HE",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/ruiwen-he/1851_195x130_20261030124808.jpg",
+      "funFact": "Spécialiste de l'intelligence artificielle et du machine learning appliquée au business."
+    },
+    {
+      "id": "prof-53",
+      "name": "Song HE",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/song-he/78_195x130_20261030124811.jpg",
+      "funFact": "Chercheur affilié au De Vinci Research Center (DVRC) à Paris La Défense."
+    },
+    {
+      "id": "prof-54",
+      "name": "Basma JAFFAL",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/basma-jaffal-mourtada/793_195x130_20261030124807.jpg",
+      "funFact": "Publie régulièrement dans des revues académiques internationales de rang A."
+    },
+    {
+      "id": "prof-55",
+      "name": "Hajer KEFI",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/hajer-kefi/841_195x130_20261030123848.jpg",
+      "funFact": "Donne des cours magistraux et dirige des projets d'innovation à l'EMLV & ESILV."
+    },
+    {
+      "id": "prof-56",
+      "name": "Sirine LOUATI",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/sirine-louati/4139_195x130_20261030124808.jpg",
+      "funFact": "Encadre des thèses de doctorat et des mémoires de fin d'études."
+    },
+    {
+      "id": "prof-57",
+      "name": "Nédra MELLOULI",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/nedra-mellouli/1467_195x130_20261030124809.jpg",
+      "funFact": "Responsable de module sur le campus de l'Arche à La Défense."
+    },
+    {
+      "id": "prof-58",
+      "name": "Zeinab MHANNA",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/zeinab-mhanna/4140_195x130_20261030124808.jpg",
+      "funFact": "Anime des workshops sur les transitions écologiques et technologiques."
+    },
+    {
+      "id": "prof-59",
+      "name": "Sixtine MICHEL",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/sixtine-michel/3121_195x130_20261030124808.jpg",
+      "funFact": "Passionné par la pédagogie inversée et les hackathons étudiants."
+    },
+    {
+      "id": "prof-60",
+      "name": "Benoît NIETO",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/benoit-nieto/3198_195x130_20261030124808.jpg",
+      "funFact": "Intervient dans les parcours International Track et French Track."
+    },
+    {
+      "id": "prof-61",
+      "name": "Imen OULED DLALA",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/imen-ouled-dlala/800_195x130_20261030124809.jpg",
+      "funFact": "Enseigne la finance d'entreprise et les marchés de capitaux à De Vinci."
+    },
+    {
+      "id": "prof-62",
+      "name": "Jiang PU",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/jiang-pu/804_195x130_20261030124118.jpg",
+      "funFact": "Spécialiste de l'intelligence artificielle et du machine learning appliquée au business."
+    },
+    {
+      "id": "prof-63",
+      "name": "Kenza RIAHI",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/kenza-riahi/3119_195x130_20261030124808.jpg",
+      "funFact": "Chercheur affilié au De Vinci Research Center (DVRC) à Paris La Défense."
+    },
+    {
+      "id": "prof-64",
+      "name": "Christophe RODRIGUES",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/christophe-rodrigues/254_195x130_20261030124808.jpg",
+      "funFact": "Publie régulièrement dans des revues académiques internationales de rang A."
+    },
+    {
+      "id": "prof-65",
+      "name": "Salomée RUEL",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/salomee-ruel/3168_195x130_20261030124808.jpg",
+      "funFact": "Donne des cours magistraux et dirige des projets d'innovation à l'EMLV & ESILV."
+    },
+    {
+      "id": "prof-66",
+      "name": "Francesco SALVARANI",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/francesco-salvarani/659_195x130_20261030124810.jpg",
+      "funFact": "Encadre des thèses de doctorat et des mémoires de fin d'études."
+    },
+    {
+      "id": "prof-67",
+      "name": "Rémy SART",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/remy-sart/52_195x130_20261030124811.jpg",
+      "funFact": "Responsable de module sur le campus de l'Arche à La Défense."
+    },
+    {
+      "id": "prof-68",
+      "name": "Mathieu SEURIN",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/mathieu-seurin/1848_195x130_20261030124809.jpg",
+      "funFact": "Anime des workshops sur les transitions écologiques et technologiques."
+    },
+    {
+      "id": "prof-69",
+      "name": "Raafat TALHOUK",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/raafat-talhouk/1405_195x130_20261030124809.jpg",
+      "funFact": "Passionné par la pédagogie inversée et les hackathons étudiants."
+    },
+    {
+      "id": "prof-70",
+      "name": "Daniel WLADDIMIRO",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/daniel-wladdimiro/1930_195x130_20261030124809.jpg",
+      "funFact": "Intervient dans les parcours International Track et French Track."
+    },
+    {
+      "id": "prof-71",
+      "name": "Samir YAHIAOUI",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/samir-yahiaoui/421_195x130_20261030124811.jpg",
+      "funFact": "Enseigne la finance d'entreprise et les marchés de capitaux à De Vinci."
+    },
+    {
+      "id": "prof-72",
+      "name": "Yiru ZHANG",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/yiru-zhang/1854_195x130_20261030124809.jpg",
+      "funFact": "Spécialiste de l'intelligence artificielle et du machine learning appliquée au business."
+    },
+    {
+      "id": "prof-73",
+      "name": "Badr ZINDINE",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Science des données, transformation digitale, risques et systèmes complexes",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/badr-zindine/4122_195x130_20261030124808.jpg",
+      "funFact": "Chercheur affilié au De Vinci Research Center (DVRC) à Paris La Défense."
+    },
+    {
+      "id": "prof-74",
+      "name": "Muhammad ATIF",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Efficacité énergétique et marchés socialement responsables",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/muhammad-atif/2751_195x130_20261030124808.jpg",
+      "funFact": "Publie régulièrement dans des revues académiques internationales de rang A."
+    },
+    {
+      "id": "prof-75",
+      "name": "Fawaz ALHUSSAN",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Efficacité énergétique et marchés socialement responsables",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/fawaz-baddar-al-hussan/866_195x130_20261030124809.jpg",
+      "funFact": "Donne des cours magistraux et dirige des projets d'innovation à l'EMLV & ESILV."
+    },
+    {
+      "id": "prof-76",
+      "name": "Irène BECCARINI",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Efficacité énergétique et marchés socialement responsables",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/irene-beccarini/1006_195x130_20261030124810.jpg",
+      "funFact": "Encadre des thèses de doctorat et des mémoires de fin d'études."
+    },
+    {
+      "id": "prof-77",
+      "name": "Pascal CLAIN",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Efficacité énergétique et marchés socialement responsables",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/pascal-clain/92_195x130_20261030124810.jpg",
+      "funFact": "Responsable de module sur le campus de l'Arche à La Défense."
+    },
+    {
+      "id": "prof-78",
+      "name": "Pierre COURTIOUX",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Efficacité énergétique et marchés socialement responsables",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/pierre-courtioux/2669_195x130_20261030124808.jpg",
+      "funFact": "Anime des workshops sur les transitions écologiques et technologiques."
+    },
+    {
+      "id": "prof-79",
+      "name": "Elise DUPONT",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Efficacité énergétique et marchés socialement responsables",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/elise-dupont/3314_195x130_20261030124808.jpg",
+      "funFact": "Passionné par la pédagogie inversée et les hackathons étudiants."
+    },
+    {
+      "id": "prof-80",
+      "name": "Safa GAAYA",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Efficacité énergétique et marchés socialement responsables",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/safa-gaaya/576_195x130_20261030124808.jpg",
+      "funFact": "Intervient dans les parcours International Track et French Track."
+    },
+    {
+      "id": "prof-81",
+      "name": "Lesman GHAZARYAN",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Efficacité énergétique et marchés socialement responsables",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/lesman-ghazaryan/4125_195x130_20261030124807.jpg",
+      "funFact": "Enseigne la finance d'entreprise et les marchés de capitaux à De Vinci."
+    },
+    {
+      "id": "prof-82",
+      "name": "Didier GOSSARD",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Efficacité énergétique et marchés socialement responsables",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/didier-gossard/4135_195x130_20261030124808.jpg",
+      "funFact": "Spécialiste de l'intelligence artificielle et du machine learning appliquée au business."
+    },
+    {
+      "id": "prof-83",
+      "name": "Ammar Ali GULL",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Efficacité énergétique et marchés socialement responsables",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/ammar-ali-gull/1845_195x130_20261030124809.jpg",
+      "funFact": "Chercheur affilié au De Vinci Research Center (DVRC) à Paris La Défense."
+    },
+    {
+      "id": "prof-84",
+      "name": "Sinda HADHRI",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Efficacité énergétique et marchés socialement responsables",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/sinda-hadhri/3401_195x130_20261030124808.jpg",
+      "funFact": "Publie régulièrement dans des revues académiques internationales de rang A."
+    },
+    {
+      "id": "prof-85",
+      "name": "Hamdi HAMZA",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Efficacité énergétique et marchés socialement responsables",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/hamdi-hamza/3118_195x130_20261030124808.jpg",
+      "funFact": "Donne des cours magistraux et dirige des projets d'innovation à l'EMLV & ESILV."
+    },
+    {
+      "id": "prof-86",
+      "name": "Muhammad Ishtiaq ISHAQ",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Efficacité énergétique et marchés socialement responsables",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/muhammad-ishtiaq-ishaq/2663_195x130_20261030124809.jpg",
+      "funFact": "Encadre des thèses de doctorat et des mémoires de fin d'études."
+    },
+    {
+      "id": "prof-87",
+      "name": "Liudmila IVVONEN",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Efficacité énergétique et marchés socialement responsables",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/liudmila-ivvonen/1262_195x130_20261030124809.jpg",
+      "funFact": "Responsable de module sur le campus de l'Arche à La Défense."
+    },
+    {
+      "id": "prof-88",
+      "name": "Jean-Etienne JOULLI?",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Efficacité énergétique et marchés socialement responsables",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/jean-etienne-joullie/833_195x130_20261030124809.jpg",
+      "funFact": "Anime des workshops sur les transitions écologiques et technologiques."
+    },
+    {
+      "id": "prof-89",
+      "name": "Daniil KHACHAI",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Efficacité énergétique et marchés socialement responsables",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/daniil-khachai/2668_195x130_20261030124809.jpg",
+      "funFact": "Passionné par la pédagogie inversée et les hackathons étudiants."
+    },
+    {
+      "id": "prof-90",
+      "name": "Faten LAKHAL",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Efficacité énergétique et marchés socialement responsables",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/faten-lakhal/501_195x130_20261030124810.jpg",
+      "funFact": "Intervient dans les parcours International Track et French Track."
+    },
+    {
+      "id": "prof-91",
+      "name": "Guillaume LAURIE",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Efficacité énergétique et marchés socialement responsables",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/guillaume-laurie/3167_195x130_20261030124808.jpg",
+      "funFact": "Enseigne la finance d'entreprise et les marchés de capitaux à De Vinci."
+    },
+    {
+      "id": "prof-92",
+      "name": "Nikos PALTALIDIS",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Efficacité énergétique et marchés socialement responsables",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/nikos-paltalidis/3028_195x130_20261030124808.jpg",
+      "funFact": "Spécialiste de l'intelligence artificielle et du machine learning appliquée au business."
+    },
+    {
+      "id": "prof-93",
+      "name": "Andréi PANIBRATOV",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Efficacité énergétique et marchés socialement responsables",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/andrei-panibratov/1278_195x130_20261030124807.jpg",
+      "funFact": "Chercheur affilié au De Vinci Research Center (DVRC) à Paris La Défense."
+    },
+    {
+      "id": "prof-94",
+      "name": "Saeedeh VESSAL",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Efficacité énergétique et marchés socialement responsables",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/saeedeh-rezaee-vessal/1277_195x130_20261030124809.jpg",
+      "funFact": "Publie régulièrement dans des revues académiques internationales de rang A."
+    },
+    {
+      "id": "prof-95",
+      "name": "Fatima SHUWAIKH",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Efficacité énergétique et marchés socialement responsables",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/fatima-shuwaikh/956_195x130_20261030124810.jpg",
+      "funFact": "Donne des cours magistraux et dirige des projets d'innovation à l'EMLV & ESILV."
+    },
+    {
+      "id": "prof-96",
+      "name": "Roheel SIDDIQI",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Efficacité énergétique et marchés socialement responsables",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/roheel-ahmed-siddiqi/4126_195x130_20261030124807.jpg",
+      "funFact": "Encadre des thèses de doctorat et des mémoires de fin d'études."
+    },
+    {
+      "id": "prof-97",
+      "name": "Lucas STOCCO",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Efficacité énergétique et marchés socialement responsables",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/lucas-stocco/3900_195x130_20261030124808.jpg",
+      "funFact": "Responsable de module sur le campus de l'Arche à La Défense."
+    },
+    {
+      "id": "prof-98",
+      "name": "Inam UL HAQ",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Efficacité énergétique et marchés socialement responsables",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/inam-ul-haq/1279_195x130_20261030124809.jpg",
+      "funFact": "Anime des workshops sur les transitions écologiques et technologiques."
+    },
+    {
+      "id": "prof-99",
+      "name": "Timothée WAXIN",
+      "type": "prof",
+      "role": "Enseignant-Chercheur De Vinci",
+      "organization": "Efficacité énergétique et marchés socialement responsables",
+      "imageUrl": "https://www.devinci.fr/wordpress/wp-content/uploads/auteurs/timothee-waxin/773_195x130_20261030124810.jpg",
+      "funFact": "Passionné par la pédagogie inversée et les hackathons étudiants."
+    }
+  ],
+  "accountants": [
+    {
+      "id": "acc-m-1",
+      "name": "Julien Dupont",
+      "type": "accountant",
+      "role": "Expert-Comptable Associé",
+      "organization": "KPMG France (Tour Eqho La Défense)",
+      "imageUrl": "https://randomuser.me/api/portraits/men/1.jpg",
+      "funFact": "Spécialiste de la liasse fiscale 2050 et des amortissements dégressifs."
+    },
+    {
+      "id": "acc-m-2",
+      "name": "Antoine Durand",
+      "type": "accountant",
+      "role": "Senior Manager Audit Financier",
+      "organization": "Deloitte Paris (Tour Majunga)",
+      "imageUrl": "https://randomuser.me/api/portraits/men/2.jpg",
+      "funFact": "Signe tous ses messages LinkedIn par : « Restant à votre entière disposition »."
+    },
+    {
+      "id": "acc-m-3",
+      "name": "Guillaume Lefebvre",
+      "type": "accountant",
+      "role": "Commissaire aux Comptes",
+      "organization": "PwC France (Neuilly-sur-Seine)",
+      "imageUrl": "https://randomuser.me/api/portraits/men/3.jpg",
+      "funFact": "A fêté la fin de la période fiscale du 15 mai avec un café triple dose."
+    },
+    {
+      "id": "acc-m-4",
+      "name": "Nicolas Moreau",
+      "type": "accountant",
+      "role": "Directeur Administratif et Financier (DAF)",
+      "organization": "EY Ernst & Young (Tour First La Défense)",
+      "imageUrl": "https://randomuser.me/api/portraits/men/4.jpg",
+      "funFact": "Rêve de macros VBA et de balances générales équilibrées à zéro."
+    },
+    {
+      "id": "acc-m-5",
+      "name": "Alexandre Laurent",
+      "type": "accountant",
+      "role": "Responsable Comptabilité Générale & Clôtures",
+      "organization": "Mazars (Tour Exaltis La Défense)",
+      "imageUrl": "https://randomuser.me/api/portraits/men/5.jpg",
+      "funFact": "Maîtrise le plan comptable général (PCG) mieux que les paroles de sa chanson préférée."
+    },
+    {
+      "id": "acc-m-6",
+      "name": "Thomas Simon",
+      "type": "accountant",
+      "role": "Chef de Mission Expertise Conseil",
+      "organization": "BDO France",
+      "imageUrl": "https://randomuser.me/api/portraits/men/6.jpg",
+      "funFact": "Ne jure que par les raccourcis ALT + E + S + V sur Excel."
+    },
+    {
+      "id": "acc-m-7",
+      "name": "Pierre Michel",
+      "type": "accountant",
+      "role": "Contrôleur de Gestion & Reporting IFRS",
+      "organization": "Grant Thornton France",
+      "imageUrl": "https://randomuser.me/api/portraits/men/7.jpg",
+      "funFact": "Adore faire des rapprochements bancaires au centime près le vendredi soir."
+    },
+    {
+      "id": "acc-m-8",
+      "name": "Maxime Garcia",
+      "type": "accountant",
+      "role": "Auditeur Senior Grands Comptes",
+      "organization": "In Extenso Expertise Comptable",
+      "imageUrl": "https://randomuser.me/api/portraits/men/8.jpg",
+      "funFact": "Partage des infographies sur la loi de finances chaque lundi matin sur LinkedIn."
+    },
+    {
+      "id": "acc-m-9",
+      "name": "Mathieu Thomas",
+      "type": "accountant",
+      "role": "Consultant Fiscalité & Déclarations Fiscales",
+      "organization": "Cabinet d'Audit & Conseil Associés",
+      "imageUrl": "https://randomuser.me/api/portraits/men/9.jpg",
+      "funFact": "Son mot préféré dans la langue française : « Provision pour dépréciation »."
+    },
+    {
+      "id": "acc-m-10",
+      "name": "Romain Robert",
+      "type": "accountant",
+      "role": "Expert-Comptable Mémorialiste",
+      "organization": "Baker Tilly France",
+      "imageUrl": "https://randomuser.me/api/portraits/men/10.jpg",
+      "funFact": "Considère que les débits à gauche et les crédits à droite sont la base de l'univers."
+    },
+    {
+      "id": "acc-m-11",
+      "name": "Lucas Richard",
+      "type": "accountant",
+      "role": "Responsable Pôle Social, Bulletins & Paie",
+      "organization": "Fiducial Expertise",
+      "imageUrl": "https://randomuser.me/api/portraits/men/11.jpg",
+      "funFact": "Spécialiste de la liasse fiscale 2050 et des amortissements dégressifs."
+    },
+    {
+      "id": "acc-m-12",
+      "name": "Clément Petit",
+      "type": "accountant",
+      "role": "Comptable Unique en Entreprise",
+      "organization": "Crowe France",
+      "imageUrl": "https://randomuser.me/api/portraits/men/12.jpg",
+      "funFact": "Signe tous ses messages LinkedIn par : « Restant à votre entière disposition »."
+    },
+    {
+      "id": "acc-m-13",
+      "name": "Vincent Dubois",
+      "type": "accountant",
+      "role": "Gestionnaire de Portefeuille Clientèle TPE/PME",
+      "organization": "KPMG France (Tour Eqho La Défense)",
+      "imageUrl": "https://randomuser.me/api/portraits/men/13.jpg",
+      "funFact": "A fêté la fin de la période fiscale du 15 mai avec un café triple dose."
+    },
+    {
+      "id": "acc-m-14",
+      "name": "Bastien Roux",
+      "type": "accountant",
+      "role": "Manager Transaction Services & M&A",
+      "organization": "Deloitte Paris (Tour Majunga)",
+      "imageUrl": "https://randomuser.me/api/portraits/men/14.jpg",
+      "funFact": "Rêve de macros VBA et de balances générales équilibrées à zéro."
+    },
+    {
+      "id": "acc-m-15",
+      "name": "Quentin David",
+      "type": "accountant",
+      "role": "Responsable Trésorerie & Consolidation",
+      "organization": "PwC France (Neuilly-sur-Seine)",
+      "imageUrl": "https://randomuser.me/api/portraits/men/15.jpg",
+      "funFact": "Maîtrise le plan comptable général (PCG) mieux que les paroles de sa chanson préférée."
+    },
+    {
+      "id": "acc-m-16",
+      "name": "Alexis Bertrand",
+      "type": "accountant",
+      "role": "Expert-Comptable Associé",
+      "organization": "EY Ernst & Young (Tour First La Défense)",
+      "imageUrl": "https://randomuser.me/api/portraits/men/16.jpg",
+      "funFact": "Ne jure que par les raccourcis ALT + E + S + V sur Excel."
+    },
+    {
+      "id": "acc-m-17",
+      "name": "Damien Morel",
+      "type": "accountant",
+      "role": "Senior Manager Audit Financier",
+      "organization": "Mazars (Tour Exaltis La Défense)",
+      "imageUrl": "https://randomuser.me/api/portraits/men/17.jpg",
+      "funFact": "Adore faire des rapprochements bancaires au centime près le vendredi soir."
+    },
+    {
+      "id": "acc-m-18",
+      "name": "Florian Fournier",
+      "type": "accountant",
+      "role": "Commissaire aux Comptes",
+      "organization": "BDO France",
+      "imageUrl": "https://randomuser.me/api/portraits/men/18.jpg",
+      "funFact": "Partage des infographies sur la loi de finances chaque lundi matin sur LinkedIn."
+    },
+    {
+      "id": "acc-m-19",
+      "name": "Hugo Girard",
+      "type": "accountant",
+      "role": "Directeur Administratif et Financier (DAF)",
+      "organization": "Grant Thornton France",
+      "imageUrl": "https://randomuser.me/api/portraits/men/19.jpg",
+      "funFact": "Son mot préféré dans la langue française : « Provision pour dépréciation »."
+    },
+    {
+      "id": "acc-m-20",
+      "name": "Arnaud Bonnet",
+      "type": "accountant",
+      "role": "Responsable Comptabilité Générale & Clôtures",
+      "organization": "In Extenso Expertise Comptable",
+      "imageUrl": "https://randomuser.me/api/portraits/men/20.jpg",
+      "funFact": "Considère que les débits à gauche et les crédits à droite sont la base de l'univers."
+    },
+    {
+      "id": "acc-m-21",
+      "name": "Sébastien Mercier",
+      "type": "accountant",
+      "role": "Chef de Mission Expertise Conseil",
+      "organization": "Cabinet d'Audit & Conseil Associés",
+      "imageUrl": "https://randomuser.me/api/portraits/men/21.jpg",
+      "funFact": "Spécialiste de la liasse fiscale 2050 et des amortissements dégressifs."
+    },
+    {
+      "id": "acc-m-22",
+      "name": "Benjamin Blanc",
+      "type": "accountant",
+      "role": "Contrôleur de Gestion & Reporting IFRS",
+      "organization": "Baker Tilly France",
+      "imageUrl": "https://randomuser.me/api/portraits/men/22.jpg",
+      "funFact": "Signe tous ses messages LinkedIn par : « Restant à votre entière disposition »."
+    },
+    {
+      "id": "acc-m-23",
+      "name": "Adrien Guerin",
+      "type": "accountant",
+      "role": "Auditeur Senior Grands Comptes",
+      "organization": "Fiducial Expertise",
+      "imageUrl": "https://randomuser.me/api/portraits/men/23.jpg",
+      "funFact": "A fêté la fin de la période fiscale du 15 mai avec un café triple dose."
+    },
+    {
+      "id": "acc-m-24",
+      "name": "Cédric Boyer",
+      "type": "accountant",
+      "role": "Consultant Fiscalité & Déclarations Fiscales",
+      "organization": "Crowe France",
+      "imageUrl": "https://randomuser.me/api/portraits/men/24.jpg",
+      "funFact": "Rêve de macros VBA et de balances générales équilibrées à zéro."
+    },
+    {
+      "id": "acc-m-25",
+      "name": "Fabien Garnier",
+      "type": "accountant",
+      "role": "Expert-Comptable Mémorialiste",
+      "organization": "KPMG France (Tour Eqho La Défense)",
+      "imageUrl": "https://randomuser.me/api/portraits/men/25.jpg",
+      "funFact": "Maîtrise le plan comptable général (PCG) mieux que les paroles de sa chanson préférée."
+    },
+    {
+      "id": "acc-m-26",
+      "name": "Gilles Chevalier",
+      "type": "accountant",
+      "role": "Responsable Pôle Social, Bulletins & Paie",
+      "organization": "Deloitte Paris (Tour Majunga)",
+      "imageUrl": "https://randomuser.me/api/portraits/men/26.jpg",
+      "funFact": "Ne jure que par les raccourcis ALT + E + S + V sur Excel."
+    },
+    {
+      "id": "acc-m-27",
+      "name": "Thierry Francois",
+      "type": "accountant",
+      "role": "Comptable Unique en Entreprise",
+      "organization": "PwC France (Neuilly-sur-Seine)",
+      "imageUrl": "https://randomuser.me/api/portraits/men/27.jpg",
+      "funFact": "Adore faire des rapprochements bancaires au centime près le vendredi soir."
+    },
+    {
+      "id": "acc-m-28",
+      "name": "Olivier Legrand",
+      "type": "accountant",
+      "role": "Gestionnaire de Portefeuille Clientèle TPE/PME",
+      "organization": "EY Ernst & Young (Tour First La Défense)",
+      "imageUrl": "https://randomuser.me/api/portraits/men/28.jpg",
+      "funFact": "Partage des infographies sur la loi de finances chaque lundi matin sur LinkedIn."
+    },
+    {
+      "id": "acc-m-29",
+      "name": "Christophe Gauthier",
+      "type": "accountant",
+      "role": "Manager Transaction Services & M&A",
+      "organization": "Mazars (Tour Exaltis La Défense)",
+      "imageUrl": "https://randomuser.me/api/portraits/men/29.jpg",
+      "funFact": "Son mot préféré dans la langue française : « Provision pour dépréciation »."
+    },
+    {
+      "id": "acc-m-30",
+      "name": "Laurent Perrin",
+      "type": "accountant",
+      "role": "Responsable Trésorerie & Consolidation",
+      "organization": "BDO France",
+      "imageUrl": "https://randomuser.me/api/portraits/men/30.jpg",
+      "funFact": "Considère que les débits à gauche et les crédits à droite sont la base de l'univers."
+    },
+    {
+      "id": "acc-m-31",
+      "name": "Marc Robin",
+      "type": "accountant",
+      "role": "Expert-Comptable Associé",
+      "organization": "Grant Thornton France",
+      "imageUrl": "https://randomuser.me/api/portraits/men/31.jpg",
+      "funFact": "Spécialiste de la liasse fiscale 2050 et des amortissements dégressifs."
+    },
+    {
+      "id": "acc-m-32",
+      "name": "Franck Clement",
+      "type": "accountant",
+      "role": "Senior Manager Audit Financier",
+      "organization": "In Extenso Expertise Comptable",
+      "imageUrl": "https://randomuser.me/api/portraits/men/32.jpg",
+      "funFact": "Signe tous ses messages LinkedIn par : « Restant à votre entière disposition »."
+    },
+    {
+      "id": "acc-m-33",
+      "name": "David Morin",
+      "type": "accountant",
+      "role": "Commissaire aux Comptes",
+      "organization": "Cabinet d'Audit & Conseil Associés",
+      "imageUrl": "https://randomuser.me/api/portraits/men/33.jpg",
+      "funFact": "A fêté la fin de la période fiscale du 15 mai avec un café triple dose."
+    },
+    {
+      "id": "acc-m-34",
+      "name": "Stéphane Nicolas",
+      "type": "accountant",
+      "role": "Directeur Administratif et Financier (DAF)",
+      "organization": "Baker Tilly France",
+      "imageUrl": "https://randomuser.me/api/portraits/men/34.jpg",
+      "funFact": "Rêve de macros VBA et de balances générales équilibrées à zéro."
+    },
+    {
+      "id": "acc-m-35",
+      "name": "Pascal Henry",
+      "type": "accountant",
+      "role": "Responsable Comptabilité Générale & Clôtures",
+      "organization": "Fiducial Expertise",
+      "imageUrl": "https://randomuser.me/api/portraits/men/35.jpg",
+      "funFact": "Maîtrise le plan comptable général (PCG) mieux que les paroles de sa chanson préférée."
+    },
+    {
+      "id": "acc-m-36",
+      "name": "Éric Roussel",
+      "type": "accountant",
+      "role": "Chef de Mission Expertise Conseil",
+      "organization": "Crowe France",
+      "imageUrl": "https://randomuser.me/api/portraits/men/36.jpg",
+      "funFact": "Ne jure que par les raccourcis ALT + E + S + V sur Excel."
+    },
+    {
+      "id": "acc-m-37",
+      "name": "Bruno Mathieu",
+      "type": "accountant",
+      "role": "Contrôleur de Gestion & Reporting IFRS",
+      "organization": "KPMG France (Tour Eqho La Défense)",
+      "imageUrl": "https://randomuser.me/api/portraits/men/37.jpg",
+      "funFact": "Adore faire des rapprochements bancaires au centime près le vendredi soir."
+    },
+    {
+      "id": "acc-m-38",
+      "name": "Philippe Gautier",
+      "type": "accountant",
+      "role": "Auditeur Senior Grands Comptes",
+      "organization": "Deloitte Paris (Tour Majunga)",
+      "imageUrl": "https://randomuser.me/api/portraits/men/38.jpg",
+      "funFact": "Partage des infographies sur la loi de finances chaque lundi matin sur LinkedIn."
+    },
+    {
+      "id": "acc-m-39",
+      "name": "Frédéric Masson",
+      "type": "accountant",
+      "role": "Consultant Fiscalité & Déclarations Fiscales",
+      "organization": "PwC France (Neuilly-sur-Seine)",
+      "imageUrl": "https://randomuser.me/api/portraits/men/39.jpg",
+      "funFact": "Son mot préféré dans la langue française : « Provision pour dépréciation »."
+    },
+    {
+      "id": "acc-m-40",
+      "name": "Alain Marchand",
+      "type": "accountant",
+      "role": "Expert-Comptable Mémorialiste",
+      "organization": "EY Ernst & Young (Tour First La Défense)",
+      "imageUrl": "https://randomuser.me/api/portraits/men/40.jpg",
+      "funFact": "Considère que les débits à gauche et les crédits à droite sont la base de l'univers."
+    },
+    {
+      "id": "acc-m-41",
+      "name": "Xavier Duval",
+      "type": "accountant",
+      "role": "Responsable Pôle Social, Bulletins & Paie",
+      "organization": "Mazars (Tour Exaltis La Défense)",
+      "imageUrl": "https://randomuser.me/api/portraits/men/41.jpg",
+      "funFact": "Spécialiste de la liasse fiscale 2050 et des amortissements dégressifs."
+    },
+    {
+      "id": "acc-m-42",
+      "name": "Benoît Denis",
+      "type": "accountant",
+      "role": "Comptable Unique en Entreprise",
+      "organization": "BDO France",
+      "imageUrl": "https://randomuser.me/api/portraits/men/42.jpg",
+      "funFact": "Signe tous ses messages LinkedIn par : « Restant à votre entière disposition »."
+    },
+    {
+      "id": "acc-m-43",
+      "name": "Denis Dumont",
+      "type": "accountant",
+      "role": "Gestionnaire de Portefeuille Clientèle TPE/PME",
+      "organization": "Grant Thornton France",
+      "imageUrl": "https://randomuser.me/api/portraits/men/43.jpg",
+      "funFact": "A fêté la fin de la période fiscale du 15 mai avec un café triple dose."
+    },
+    {
+      "id": "acc-m-44",
+      "name": "Hervé Marie",
+      "type": "accountant",
+      "role": "Manager Transaction Services & M&A",
+      "organization": "In Extenso Expertise Comptable",
+      "imageUrl": "https://randomuser.me/api/portraits/men/44.jpg",
+      "funFact": "Rêve de macros VBA et de balances générales équilibrées à zéro."
+    },
+    {
+      "id": "acc-m-45",
+      "name": "Gérard Lemaire",
+      "type": "accountant",
+      "role": "Responsable Trésorerie & Consolidation",
+      "organization": "Cabinet d'Audit & Conseil Associés",
+      "imageUrl": "https://randomuser.me/api/portraits/men/45.jpg",
+      "funFact": "Maîtrise le plan comptable général (PCG) mieux que les paroles de sa chanson préférée."
+    },
+    {
+      "id": "acc-m-46",
+      "name": "Christian Noel",
+      "type": "accountant",
+      "role": "Expert-Comptable Associé",
+      "organization": "Baker Tilly France",
+      "imageUrl": "https://randomuser.me/api/portraits/men/46.jpg",
+      "funFact": "Ne jure que par les raccourcis ALT + E + S + V sur Excel."
+    },
+    {
+      "id": "acc-m-47",
+      "name": "Patrick Meyer",
+      "type": "accountant",
+      "role": "Senior Manager Audit Financier",
+      "organization": "Fiducial Expertise",
+      "imageUrl": "https://randomuser.me/api/portraits/men/47.jpg",
+      "funFact": "Adore faire des rapprochements bancaires au centime près le vendredi soir."
+    },
+    {
+      "id": "acc-m-48",
+      "name": "Jean-Marc Dufour",
+      "type": "accountant",
+      "role": "Commissaire aux Comptes",
+      "organization": "Crowe France",
+      "imageUrl": "https://randomuser.me/api/portraits/men/48.jpg",
+      "funFact": "Partage des infographies sur la loi de finances chaque lundi matin sur LinkedIn."
+    },
+    {
+      "id": "acc-m-49",
+      "name": "Ludovic Meunier",
+      "type": "accountant",
+      "role": "Directeur Administratif et Financier (DAF)",
+      "organization": "KPMG France (Tour Eqho La Défense)",
+      "imageUrl": "https://randomuser.me/api/portraits/men/49.jpg",
+      "funFact": "Son mot préféré dans la langue française : « Provision pour dépréciation »."
+    },
+    {
+      "id": "acc-m-50",
+      "name": "Sylvain Brunet",
+      "type": "accountant",
+      "role": "Responsable Comptabilité Générale & Clôtures",
+      "organization": "Deloitte Paris (Tour Majunga)",
+      "imageUrl": "https://randomuser.me/api/portraits/men/50.jpg",
+      "funFact": "Considère que les débits à gauche et les crédits à droite sont la base de l'univers."
+    },
+    {
+      "id": "acc-f-1",
+      "name": "Sophie Blanchard",
+      "type": "accountant",
+      "role": "Chef de Mission Expertise Conseil",
+      "organization": "EY Ernst & Young (Tour First La Défense)",
+      "imageUrl": "https://randomuser.me/api/portraits/women/1.jpg",
+      "funFact": "Rêve de macros VBA et de balances générales équilibrées à zéro."
+    },
+    {
+      "id": "acc-f-2",
+      "name": "Camille Giraud",
+      "type": "accountant",
+      "role": "Contrôleur de Gestion & Reporting IFRS",
+      "organization": "Mazars (Tour Exaltis La Défense)",
+      "imageUrl": "https://randomuser.me/api/portraits/women/2.jpg",
+      "funFact": "Maîtrise le plan comptable général (PCG) mieux que les paroles de sa chanson préférée."
+    },
+    {
+      "id": "acc-f-3",
+      "name": "Émilie Joly",
+      "type": "accountant",
+      "role": "Auditeur Senior Grands Comptes",
+      "organization": "BDO France",
+      "imageUrl": "https://randomuser.me/api/portraits/women/3.jpg",
+      "funFact": "Ne jure que par les raccourcis ALT + E + S + V sur Excel."
+    },
+    {
+      "id": "acc-f-4",
+      "name": "Julie Riviere",
+      "type": "accountant",
+      "role": "Consultant Fiscalité & Déclarations Fiscales",
+      "organization": "Grant Thornton France",
+      "imageUrl": "https://randomuser.me/api/portraits/women/4.jpg",
+      "funFact": "Adore faire des rapprochements bancaires au centime près le vendredi soir."
+    },
+    {
+      "id": "acc-f-5",
+      "name": "Aurélie Lucas",
+      "type": "accountant",
+      "role": "Expert-Comptable Mémorialiste",
+      "organization": "In Extenso Expertise Comptable",
+      "imageUrl": "https://randomuser.me/api/portraits/women/5.jpg",
+      "funFact": "Partage des infographies sur la loi de finances chaque lundi matin sur LinkedIn."
+    },
+    {
+      "id": "acc-f-6",
+      "name": "Céline Brun",
+      "type": "accountant",
+      "role": "Responsable Pôle Social, Bulletins & Paie",
+      "organization": "Cabinet d'Audit & Conseil Associés",
+      "imageUrl": "https://randomuser.me/api/portraits/women/6.jpg",
+      "funFact": "Son mot préféré dans la langue française : « Provision pour dépréciation »."
+    },
+    {
+      "id": "acc-f-7",
+      "name": "Marie Gaillard",
+      "type": "accountant",
+      "role": "Comptable Unique en Entreprise",
+      "organization": "Baker Tilly France",
+      "imageUrl": "https://randomuser.me/api/portraits/women/7.jpg",
+      "funFact": "Considère que les débits à gauche et les crédits à droite sont la base de l'univers."
+    },
+    {
+      "id": "acc-f-8",
+      "name": "Laurence Barbier",
+      "type": "accountant",
+      "role": "Gestionnaire de Portefeuille Clientèle TPE/PME",
+      "organization": "Fiducial Expertise",
+      "imageUrl": "https://randomuser.me/api/portraits/women/8.jpg",
+      "funFact": "Spécialiste de la liasse fiscale 2050 et des amortissements dégressifs."
+    },
+    {
+      "id": "acc-f-9",
+      "name": "Hélène Arnaud",
+      "type": "accountant",
+      "role": "Manager Transaction Services & M&A",
+      "organization": "Crowe France",
+      "imageUrl": "https://randomuser.me/api/portraits/women/9.jpg",
+      "funFact": "Signe tous ses messages LinkedIn par : « Restant à votre entière disposition »."
+    },
+    {
+      "id": "acc-f-10",
+      "name": "Valérie Martinez",
+      "type": "accountant",
+      "role": "Responsable Trésorerie & Consolidation",
+      "organization": "KPMG France (Tour Eqho La Défense)",
+      "imageUrl": "https://randomuser.me/api/portraits/women/10.jpg",
+      "funFact": "A fêté la fin de la période fiscale du 15 mai avec un café triple dose."
+    },
+    {
+      "id": "acc-f-11",
+      "name": "Nathalie Gerard",
+      "type": "accountant",
+      "role": "Expert-Comptable Associé",
+      "organization": "Deloitte Paris (Tour Majunga)",
+      "imageUrl": "https://randomuser.me/api/portraits/women/11.jpg",
+      "funFact": "Rêve de macros VBA et de balances générales équilibrées à zéro."
+    },
+    {
+      "id": "acc-f-12",
+      "name": "Isabelle Roche",
+      "type": "accountant",
+      "role": "Senior Manager Audit Financier",
+      "organization": "PwC France (Neuilly-sur-Seine)",
+      "imageUrl": "https://randomuser.me/api/portraits/women/12.jpg",
+      "funFact": "Maîtrise le plan comptable général (PCG) mieux que les paroles de sa chanson préférée."
+    },
+    {
+      "id": "acc-f-13",
+      "name": "Virginie Renard",
+      "type": "accountant",
+      "role": "Commissaire aux Comptes",
+      "organization": "EY Ernst & Young (Tour First La Défense)",
+      "imageUrl": "https://randomuser.me/api/portraits/women/13.jpg",
+      "funFact": "Ne jure que par les raccourcis ALT + E + S + V sur Excel."
+    },
+    {
+      "id": "acc-f-14",
+      "name": "Delphine Schmitt",
+      "type": "accountant",
+      "role": "Directeur Administratif et Financier (DAF)",
+      "organization": "Mazars (Tour Exaltis La Défense)",
+      "imageUrl": "https://randomuser.me/api/portraits/women/14.jpg",
+      "funFact": "Adore faire des rapprochements bancaires au centime près le vendredi soir."
+    },
+    {
+      "id": "acc-f-15",
+      "name": "Audrey Roy",
+      "type": "accountant",
+      "role": "Responsable Comptabilité Générale & Clôtures",
+      "organization": "BDO France",
+      "imageUrl": "https://randomuser.me/api/portraits/women/15.jpg",
+      "funFact": "Partage des infographies sur la loi de finances chaque lundi matin sur LinkedIn."
+    },
+    {
+      "id": "acc-f-16",
+      "name": "Caroline Leroy",
+      "type": "accountant",
+      "role": "Chef de Mission Expertise Conseil",
+      "organization": "Grant Thornton France",
+      "imageUrl": "https://randomuser.me/api/portraits/women/16.jpg",
+      "funFact": "Son mot préféré dans la langue française : « Provision pour dépréciation »."
+    },
+    {
+      "id": "acc-f-17",
+      "name": "Charlotte Colin",
+      "type": "accountant",
+      "role": "Contrôleur de Gestion & Reporting IFRS",
+      "organization": "In Extenso Expertise Comptable",
+      "imageUrl": "https://randomuser.me/api/portraits/women/17.jpg",
+      "funFact": "Considère que les débits à gauche et les crédits à droite sont la base de l'univers."
+    },
+    {
+      "id": "acc-f-18",
+      "name": "Manon Vidal",
+      "type": "accountant",
+      "role": "Auditeur Senior Grands Comptes",
+      "organization": "Cabinet d'Audit & Conseil Associés",
+      "imageUrl": "https://randomuser.me/api/portraits/women/18.jpg",
+      "funFact": "Spécialiste de la liasse fiscale 2050 et des amortissements dégressifs."
+    },
+    {
+      "id": "acc-f-19",
+      "name": "Pauline Caron",
+      "type": "accountant",
+      "role": "Consultant Fiscalité & Déclarations Fiscales",
+      "organization": "Baker Tilly France",
+      "imageUrl": "https://randomuser.me/api/portraits/women/19.jpg",
+      "funFact": "Signe tous ses messages LinkedIn par : « Restant à votre entière disposition »."
+    },
+    {
+      "id": "acc-f-20",
+      "name": "Marion Picard",
+      "type": "accountant",
+      "role": "Expert-Comptable Mémorialiste",
+      "organization": "Fiducial Expertise",
+      "imageUrl": "https://randomuser.me/api/portraits/women/20.jpg",
+      "funFact": "A fêté la fin de la période fiscale du 15 mai avec un café triple dose."
+    },
+    {
+      "id": "acc-f-21",
+      "name": "Chloé Aubert",
+      "type": "accountant",
+      "role": "Responsable Pôle Social, Bulletins & Paie",
+      "organization": "Crowe France",
+      "imageUrl": "https://randomuser.me/api/portraits/women/21.jpg",
+      "funFact": "Rêve de macros VBA et de balances générales équilibrées à zéro."
+    },
+    {
+      "id": "acc-f-22",
+      "name": "Mélanie Renaud",
+      "type": "accountant",
+      "role": "Comptable Unique en Entreprise",
+      "organization": "KPMG France (Tour Eqho La Défense)",
+      "imageUrl": "https://randomuser.me/api/portraits/women/22.jpg",
+      "funFact": "Maîtrise le plan comptable général (PCG) mieux que les paroles de sa chanson préférée."
+    },
+    {
+      "id": "acc-f-23",
+      "name": "Lucie Leclerc",
+      "type": "accountant",
+      "role": "Gestionnaire de Portefeuille Clientèle TPE/PME",
+      "organization": "Deloitte Paris (Tour Majunga)",
+      "imageUrl": "https://randomuser.me/api/portraits/women/23.jpg",
+      "funFact": "Ne jure que par les raccourcis ALT + E + S + V sur Excel."
+    },
+    {
+      "id": "acc-f-24",
+      "name": "Laura Fontaine",
+      "type": "accountant",
+      "role": "Manager Transaction Services & M&A",
+      "organization": "PwC France (Neuilly-sur-Seine)",
+      "imageUrl": "https://randomuser.me/api/portraits/women/24.jpg",
+      "funFact": "Adore faire des rapprochements bancaires au centime près le vendredi soir."
+    },
+    {
+      "id": "acc-f-25",
+      "name": "Claire Gimenez",
+      "type": "accountant",
+      "role": "Responsable Trésorerie & Consolidation",
+      "organization": "EY Ernst & Young (Tour First La Défense)",
+      "imageUrl": "https://randomuser.me/api/portraits/women/25.jpg",
+      "funFact": "Partage des infographies sur la loi de finances chaque lundi matin sur LinkedIn."
+    },
+    {
+      "id": "acc-f-26",
+      "name": "Anne Olivier",
+      "type": "accountant",
+      "role": "Expert-Comptable Associé",
+      "organization": "Mazars (Tour Exaltis La Défense)",
+      "imageUrl": "https://randomuser.me/api/portraits/women/26.jpg",
+      "funFact": "Son mot préféré dans la langue française : « Provision pour dépréciation »."
+    },
+    {
+      "id": "acc-f-27",
+      "name": "Sandrine Vasseur",
+      "type": "accountant",
+      "role": "Senior Manager Audit Financier",
+      "organization": "BDO France",
+      "imageUrl": "https://randomuser.me/api/portraits/women/27.jpg",
+      "funFact": "Considère que les débits à gauche et les crédits à droite sont la base de l'univers."
+    },
+    {
+      "id": "acc-f-28",
+      "name": "Corinne Bourgeois",
+      "type": "accountant",
+      "role": "Commissaire aux Comptes",
+      "organization": "Grant Thornton France",
+      "imageUrl": "https://randomuser.me/api/portraits/women/28.jpg",
+      "funFact": "Spécialiste de la liasse fiscale 2050 et des amortissements dégressifs."
+    },
+    {
+      "id": "acc-f-29",
+      "name": "Stéphanie Benoit",
+      "type": "accountant",
+      "role": "Directeur Administratif et Financier (DAF)",
+      "organization": "In Extenso Expertise Comptable",
+      "imageUrl": "https://randomuser.me/api/portraits/women/29.jpg",
+      "funFact": "Signe tous ses messages LinkedIn par : « Restant à votre entière disposition »."
+    },
+    {
+      "id": "acc-f-30",
+      "name": "Béatrice Rey",
+      "type": "accountant",
+      "role": "Responsable Comptabilité Générale & Clôtures",
+      "organization": "Cabinet d'Audit & Conseil Associés",
+      "imageUrl": "https://randomuser.me/api/portraits/women/30.jpg",
+      "funFact": "A fêté la fin de la période fiscale du 15 mai avec un café triple dose."
+    },
+    {
+      "id": "acc-f-31",
+      "name": "Véronique Lecomte",
+      "type": "accountant",
+      "role": "Chef de Mission Expertise Conseil",
+      "organization": "Baker Tilly France",
+      "imageUrl": "https://randomuser.me/api/portraits/women/31.jpg",
+      "funFact": "Rêve de macros VBA et de balances générales équilibrées à zéro."
+    },
+    {
+      "id": "acc-f-32",
+      "name": "Florence Hubert",
+      "type": "accountant",
+      "role": "Contrôleur de Gestion & Reporting IFRS",
+      "organization": "Fiducial Expertise",
+      "imageUrl": "https://randomuser.me/api/portraits/women/32.jpg",
+      "funFact": "Maîtrise le plan comptable général (PCG) mieux que les paroles de sa chanson préférée."
+    },
+    {
+      "id": "acc-f-33",
+      "name": "Sylvie Baron",
+      "type": "accountant",
+      "role": "Auditeur Senior Grands Comptes",
+      "organization": "Crowe France",
+      "imageUrl": "https://randomuser.me/api/portraits/women/33.jpg",
+      "funFact": "Ne jure que par les raccourcis ALT + E + S + V sur Excel."
+    },
+    {
+      "id": "acc-f-34",
+      "name": "Patricia Collet",
+      "type": "accountant",
+      "role": "Consultant Fiscalité & Déclarations Fiscales",
+      "organization": "KPMG France (Tour Eqho La Défense)",
+      "imageUrl": "https://randomuser.me/api/portraits/women/34.jpg",
+      "funFact": "Adore faire des rapprochements bancaires au centime près le vendredi soir."
+    },
+    {
+      "id": "acc-f-35",
+      "name": "Christine Faure",
+      "type": "accountant",
+      "role": "Expert-Comptable Mémorialiste",
+      "organization": "Deloitte Paris (Tour Majunga)",
+      "imageUrl": "https://randomuser.me/api/portraits/women/35.jpg",
+      "funFact": "Partage des infographies sur la loi de finances chaque lundi matin sur LinkedIn."
+    },
+    {
+      "id": "acc-f-36",
+      "name": "Catherine Moulin",
+      "type": "accountant",
+      "role": "Responsable Pôle Social, Bulletins & Paie",
+      "organization": "PwC France (Neuilly-sur-Seine)",
+      "imageUrl": "https://randomuser.me/api/portraits/women/36.jpg",
+      "funFact": "Son mot préféré dans la langue française : « Provision pour dépréciation »."
+    },
+    {
+      "id": "acc-f-37",
+      "name": "Carole Fernandez",
+      "type": "accountant",
+      "role": "Comptable Unique en Entreprise",
+      "organization": "EY Ernst & Young (Tour First La Défense)",
+      "imageUrl": "https://randomuser.me/api/portraits/women/37.jpg",
+      "funFact": "Considère que les débits à gauche et les crédits à droite sont la base de l'univers."
+    },
+    {
+      "id": "acc-f-38",
+      "name": "Martine Charles",
+      "type": "accountant",
+      "role": "Gestionnaire de Portefeuille Clientèle TPE/PME",
+      "organization": "Mazars (Tour Exaltis La Défense)",
+      "imageUrl": "https://randomuser.me/api/portraits/women/38.jpg",
+      "funFact": "Spécialiste de la liasse fiscale 2050 et des amortissements dégressifs."
+    },
+    {
+      "id": "acc-f-39",
+      "name": "Monique Perrot",
+      "type": "accountant",
+      "role": "Manager Transaction Services & M&A",
+      "organization": "BDO France",
+      "imageUrl": "https://randomuser.me/api/portraits/women/39.jpg",
+      "funFact": "Signe tous ses messages LinkedIn par : « Restant à votre entière disposition »."
+    },
+    {
+      "id": "acc-f-40",
+      "name": "Élise Texier",
+      "type": "accountant",
+      "role": "Responsable Trésorerie & Consolidation",
+      "organization": "Grant Thornton France",
+      "imageUrl": "https://randomuser.me/api/portraits/women/40.jpg",
+      "funFact": "A fêté la fin de la période fiscale du 15 mai avec un café triple dose."
+    },
+    {
+      "id": "acc-f-41",
+      "name": "Morgane Barre",
+      "type": "accountant",
+      "role": "Expert-Comptable Associé",
+      "organization": "In Extenso Expertise Comptable",
+      "imageUrl": "https://randomuser.me/api/portraits/women/41.jpg",
+      "funFact": "Rêve de macros VBA et de balances générales équilibrées à zéro."
+    },
+    {
+      "id": "acc-f-42",
+      "name": "Clémence Lemoine",
+      "type": "accountant",
+      "role": "Senior Manager Audit Financier",
+      "organization": "Cabinet d'Audit & Conseil Associés",
+      "imageUrl": "https://randomuser.me/api/portraits/women/42.jpg",
+      "funFact": "Maîtrise le plan comptable général (PCG) mieux que les paroles de sa chanson préférée."
+    },
+    {
+      "id": "acc-f-43",
+      "name": "Anaïs Carpentier",
+      "type": "accountant",
+      "role": "Commissaire aux Comptes",
+      "organization": "Baker Tilly France",
+      "imageUrl": "https://randomuser.me/api/portraits/women/43.jpg",
+      "funFact": "Ne jure que par les raccourcis ALT + E + S + V sur Excel."
+    },
+    {
+      "id": "acc-f-44",
+      "name": "Inès Dupont",
+      "type": "accountant",
+      "role": "Directeur Administratif et Financier (DAF)",
+      "organization": "Fiducial Expertise",
+      "imageUrl": "https://randomuser.me/api/portraits/women/44.jpg",
+      "funFact": "Adore faire des rapprochements bancaires au centime près le vendredi soir."
+    },
+    {
+      "id": "acc-f-45",
+      "name": "Sarah Durand",
+      "type": "accountant",
+      "role": "Responsable Comptabilité Générale & Clôtures",
+      "organization": "Crowe France",
+      "imageUrl": "https://randomuser.me/api/portraits/women/45.jpg",
+      "funFact": "Partage des infographies sur la loi de finances chaque lundi matin sur LinkedIn."
+    },
+    {
+      "id": "acc-f-46",
+      "name": "Léa Lefebvre",
+      "type": "accountant",
+      "role": "Chef de Mission Expertise Conseil",
+      "organization": "KPMG France (Tour Eqho La Défense)",
+      "imageUrl": "https://randomuser.me/api/portraits/women/46.jpg",
+      "funFact": "Son mot préféré dans la langue française : « Provision pour dépréciation »."
+    },
+    {
+      "id": "acc-f-47",
+      "name": "Justine Moreau",
+      "type": "accountant",
+      "role": "Contrôleur de Gestion & Reporting IFRS",
+      "organization": "Deloitte Paris (Tour Majunga)",
+      "imageUrl": "https://randomuser.me/api/portraits/women/47.jpg",
+      "funFact": "Considère que les débits à gauche et les crédits à droite sont la base de l'univers."
+    },
+    {
+      "id": "acc-f-48",
+      "name": "Amélie Laurent",
+      "type": "accountant",
+      "role": "Auditeur Senior Grands Comptes",
+      "organization": "PwC France (Neuilly-sur-Seine)",
+      "imageUrl": "https://randomuser.me/api/portraits/women/48.jpg",
+      "funFact": "Spécialiste de la liasse fiscale 2050 et des amortissements dégressifs."
+    },
+    {
+      "id": "acc-f-49",
+      "name": "Jeanne Simon",
+      "type": "accountant",
+      "role": "Consultant Fiscalité & Déclarations Fiscales",
+      "organization": "EY Ernst & Young (Tour First La Défense)",
+      "imageUrl": "https://randomuser.me/api/portraits/women/49.jpg",
+      "funFact": "Signe tous ses messages LinkedIn par : « Restant à votre entière disposition »."
+    }
+  ]
+}
